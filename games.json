@@ -1,3 +1,8 @@
 [
   {  
-name:"a named game"}}
+    name:"a named game"
+  },
+  {
+    name:"Another Game"
+  }
+]
